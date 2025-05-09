@@ -41,6 +41,18 @@
 *.VC.db
 *.VC.opendb
 
+# UE5 project ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.sln
+*.opensdf
+*.sdf
+.vs/
+*.log
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
